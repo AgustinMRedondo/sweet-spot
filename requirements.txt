@@ -1,0 +1,7 @@
+streamlit==1.15.2
+matplotlib
+numpy
+pandas
+os
+PIL
+datetime
